@@ -1,0 +1,3 @@
+Page 2: Image 'COSName{Image16}' missing alt text
+Page 2: Image 'COSName{Image17}' missing alt text
+Page 3: Image 'COSName{Image20}' missing alt text

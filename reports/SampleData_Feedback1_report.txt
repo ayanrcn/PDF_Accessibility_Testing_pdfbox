@@ -1,0 +1,84 @@
+=== PDF Accessibility Report ===
+
+Page 2: Image 'COSName{Image16}' missing alt text
+Page 2: Image 'COSName{Image17}' missing alt text
+Page 3: Image 'COSName{Image20}' missing alt text
+Tag[0](Document) -> P: contains no MCID references.
+Tag[0](Document) -> P: contains no MCID references.
+Tag[0](Document) -> Table -> THead -> TR -> TH -> P: contains no MCID references.
+Tag[0](Document) -> Table -> THead -> TR -> TH: contains no MCID references.
+Tag[0](Document) -> Table -> THead -> TR -> TH -> P: contains no MCID references.
+Tag[0](Document) -> Table -> THead -> TR -> TH: contains no MCID references.
+Tag[0](Document) -> Table -> THead -> TR: contains no MCID references.
+Tag[0](Document) -> Table -> THead: contains no MCID references.
+Tag[0](Document) -> Table -> TBody -> TR -> TH -> P: contains no MCID references.
+Tag[0](Document) -> Table -> TBody -> TR -> TH: contains no MCID references.
+Tag[0](Document) -> Table -> TBody -> TR -> TD -> P: contains no MCID references.
+Tag[0](Document) -> Table -> TBody -> TR -> TD: contains no MCID references.
+Tag[0](Document) -> Table -> TBody -> TR: contains no MCID references.
+Tag[0](Document) -> Table -> TBody -> TR -> TH -> P: contains no MCID references.
+Tag[0](Document) -> Table -> TBody -> TR -> TH: contains no MCID references.
+Tag[0](Document) -> Table -> TBody -> TR -> TD -> P: contains no MCID references.
+Tag[0](Document) -> Table -> TBody -> TR -> TD: contains no MCID references.
+Tag[0](Document) -> Table -> TBody -> TR: contains no MCID references.
+Tag[0](Document) -> Table -> TBody -> TR -> TH -> P: contains no MCID references.
+Tag[0](Document) -> Table -> TBody -> TR -> TH: contains no MCID references.
+Tag[0](Document) -> Table -> TBody -> TR -> TD -> P: contains no MCID references.
+Tag[0](Document) -> Table -> TBody -> TR -> TD: contains no MCID references.
+Tag[0](Document) -> Table -> TBody -> TR: contains no MCID references.
+Tag[0](Document) -> Table -> TBody: contains no MCID references.
+Tag[0](Document) -> Table: contains no MCID references.
+Tag[0](Document) -> P: contains no MCID references.
+Tag[0](Document) -> P: contains no MCID references.
+Tag[0](Document) -> P: contains no MCID references.
+Tag[0](Document) -> P: contains no MCID references.
+Tag[0](Document) -> Figure: contains no MCID references.
+Tag[0](Document) -> P: contains no MCID references.
+Tag[0](Document) -> P: contains no MCID references.
+Tag[0](Document) -> P: contains no MCID references.
+Tag[0](Document) -> Figure: contains no MCID references.
+Tag[0](Document) -> P: contains no MCID references.
+Tag[0](Document) -> P: contains no MCID references.
+Tag[0](Document) -> P: contains no MCID references.
+Tag[0](Document) -> P: contains no MCID references.
+Tag[0](Document) -> Figure: contains no MCID references.
+Tag[0](Document) -> P: contains no MCID references.
+Tag[0](Document): contains no MCID references.
+⚠️ Possible reading order issue: tagged order diverges from visual order.
+No bookmarks/outline found — navigation aid missing.
+Grammar/Spelling: Possible spelling mistake found. → Suggestion: DevOps
+Grammar/Spelling: Possible spelling mistake found. → Suggestion: VS Code, VSC ode
+Grammar/Spelling: This word seems to be formatted incorrectly. Consider fixing the spacing or removing the hyphen completely. → Suggestion: Git-We, Git - We
+Grammar/Spelling: Possible spelling mistake found. → Suggestion: DevOps
+Grammar/Spelling: Possible agreement error. Did you mean “pipelines”? → Suggestion: pipelines
+Grammar/Spelling: This word seems to be formatted incorrectly. Consider fixing the spacing or removing the hyphen completely. → Suggestion: Portal-The, Portal - The
+Grammar/Spelling: Possible missing preposition found. → Suggestion: it will
+Grammar/Spelling: Possible missing comma found. → Suggestion: Lastly,
+Grammar/Spelling: Did you mean “it's” (=“it has”) instead of ‘its’ (possessive pronoun)? → Suggestion: it's, it has
+Grammar/Spelling: Possible spelling mistake found.
+Grammar/Spelling: Possible spelling mistake found. → Suggestion: Grandam
+Grammar/Spelling: Possible spelling mistake found. → Suggestion: Cagliari, Baguette, Banditti, Baghdadi, Gauhati, Bakeware, Basmati
+Grammar/Spelling: Possible spelling mistake found. → Suggestion: Dietary, Dipterous, Diptera, Dipteral, Dipteran
+Grammar/Spelling: Possible spelling mistake found. → Suggestion: Jabalpur
+Grammar/Spelling: Possible spelling mistake found. → Suggestion: grammar, grimmer, rammer, crammer, g rammer
+Grammar/Spelling: The modal verb ‘will’ requires the verb’s base form. → Suggestion: detect
+Grammar/Spelling: Possible typo: you repeated a whitespace → Suggestion:  
+Grammar/Spelling: Possible typo: you repeated a whitespace → Suggestion:  
+Grammar/Spelling: Possible typo: you repeated a whitespace → Suggestion:  
+Grammar/Spelling: Possible typo: you repeated a whitespace → Suggestion:  
+Grammar/Spelling: Possible typo: you repeated a whitespace → Suggestion:  
+Grammar/Spelling: After ‘It’, use the third-person verb form “has”. → Suggestion: has
+Grammar/Spelling: Possible spelling mistake found. → Suggestion: grammar, grimmer, rammer, crammer, g rammer
+Page 1: no page number detected.
+Page 2: no page number detected.
+Page 3: no page number detected.
+⚠️ No page numbers detected in document.
+
+
+=== Color Contrast Issues ===
+Page 1: Text 'Wrong grammer will detected' has low contrast ratio 1.00:1 (needs 4.5:1 for normal text, color: #ffffff, size: 12.0pt)
+Page 1: Text 'I not there' has low contrast ratio 1.00:1 (needs 4.5:1 for normal text, color: #ffffff, size: 12.0pt)
+Page 1: Text 'Name' has low contrast ratio 1.00:1 (needs 4.5:1 for normal text, color: #ffffff, size: 12.0pt)
+Page 1: Text 'Add name' has low contrast ratio 1.00:1 (needs 4.5:1 for normal text, color: #ffffff, size: 12.0pt)
+Page 1: Text 'Age' has low contrast ratio 1.00:1 (needs 4.5:1 for normal text, color: #ffffff, size: 12.0pt)
+Page 1: Text 'Add age' has low contrast ratio 1.00:1 (needs 4.5:1 for normal text, color: #ffffff, size: 12.0pt)

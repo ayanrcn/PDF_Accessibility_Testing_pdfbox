@@ -1,0 +1,112 @@
+# Accessibility Compliance Report
+
+## Document Overview
+This report evaluates the accessibility compliance of a 3-page PDF document based on WCAG and PDF/UA standards. The document is assessed for navigability, understandability, and usability by all users, including those using assistive technologies.
+
+Report generated on: 2025-09-15 17:40:56
+
+## Page-by-Page Analysis
+
+### Page 1
+
+#### 1. Proper Tagging Structure
+- **Issues Detected**: Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> Table -> THead -> TR -> TH -> P: contains no MCID references.; Tag[0](Document) -> Table -> THead -> TR -> TH: contains no MCID references.; Tag[0](Document) -> Table -> THead -> TR -> TH -> P: contains no MCID references.; Tag[0](Document) -> Table -> THead -> TR -> TH: contains no MCID references.; Tag[0](Document) -> Table -> THead -> TR: contains no MCID references.; Tag[0](Document) -> Table -> THead: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TH -> P: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TH: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TD -> P: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TD: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TH -> P: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TH: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TD -> P: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TD: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TH -> P: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TH: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TD -> P: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TD: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR: contains no MCID references.; Tag[0](Document) -> Table -> TBody: contains no MCID references.; Tag[0](Document) -> Table: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> Figure: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> Figure: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> Figure: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document): contains no MCID references.
+- **Recommendation**: Implement a proper tagging structure with semantic elements.
+
+#### 2. Logical Reading Order
+- **Issues Detected**: Possible reading order issue: tagged order diverges from visual order.
+- **Recommendation**: Establish a logical reading order that follows natural document flow.
+
+#### 3. Alt Text for Images
+- **Issues Detected**: No images or all images have proper alt text.
+- **Recommendation**: N/A
+
+#### 4. Image Quality and Clarity
+- **Issues Detected**: No image quality issues detected.
+- **Recommendation**: N/A
+
+#### 5. Color Contrast and Font Legibility
+- **Issues Detected**: Page 1: Text 'Wrong grammer will detected' has low contrast ratio 1.00:1 (needs 4.5:1 for normal text, color: #ffffff, size: 12.0pt); Page 1: Text 'I not there' has low contrast ratio 1.00:1 (needs 4.5:1 for normal text, color: #ffffff, size: 12.0pt); Page 1: Text 'Name' has low contrast ratio 1.00:1 (needs 4.5:1 for normal text, color: #ffffff, size: 12.0pt); Page 1: Text 'Add name' has low contrast ratio 1.00:1 (needs 4.5:1 for normal text, color: #ffffff, size: 12.0pt); Page 1: Text 'Age' has low contrast ratio 1.00:1 (needs 4.5:1 for normal text, color: #ffffff, size: 12.0pt); Page 1: Text 'Add age' has low contrast ratio 1.00:1 (needs 4.5:1 for normal text, color: #ffffff, size: 12.0pt)
+- **Recommendation**: Ensure text contrast meets WCAG standards (4.5:1 for normal text, 3:1 for large text).
+
+#### 6. Form Field Labeling and Navigation
+- **Issues Detected**: No form fields or all form fields properly labeled.
+- **Recommendation**: N/A
+
+#### 7. Grammar and Spelling Checks
+- **Issues Detected**: Possible spelling mistake found. → Suggestion: DevOps; Possible spelling mistake found. → Suggestion: VS Code, VSC ode; This word seems to be formatted incorrectly. Consider fixing the spacing or removing the hyphen completely. → Suggestion: Git-We, Git - We
+- **Recommendation**: Use grammar tools to correct language errors.
+
+### Page 2
+
+#### 1. Proper Tagging Structure
+- **Issues Detected**: Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> Table -> THead -> TR -> TH -> P: contains no MCID references.; Tag[0](Document) -> Table -> THead -> TR -> TH: contains no MCID references.; Tag[0](Document) -> Table -> THead -> TR -> TH -> P: contains no MCID references.; Tag[0](Document) -> Table -> THead -> TR -> TH: contains no MCID references.; Tag[0](Document) -> Table -> THead -> TR: contains no MCID references.; Tag[0](Document) -> Table -> THead: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TH -> P: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TH: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TD -> P: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TD: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TH -> P: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TH: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TD -> P: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TD: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TH -> P: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TH: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TD -> P: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TD: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR: contains no MCID references.; Tag[0](Document) -> Table -> TBody: contains no MCID references.; Tag[0](Document) -> Table: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> Figure: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> Figure: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> Figure: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document): contains no MCID references.
+- **Recommendation**: Implement a proper tagging structure with semantic elements.
+
+#### 2. Logical Reading Order
+- **Issues Detected**: Possible reading order issue: tagged order diverges from visual order.
+- **Recommendation**: Establish a logical reading order that follows natural document flow.
+
+#### 3. Alt Text for Images
+- **Issues Detected**: Image 'COSName{Image16}' missing alt text; Image 'COSName{Image17}' missing alt text
+- **Recommendation**: Provide descriptive alt text for all images.
+
+#### 4. Image Quality and Clarity
+- **Issues Detected**: Image 'COSName{Image16}' appears blurry (sharpness score: 23.73)
+- **Recommendation**: Replace blurry images with higher quality versions for better readability.
+
+#### 5. Color Contrast and Font Legibility
+- **Issues Detected**: No contrast issues detected.
+- **Recommendation**: N/A
+
+#### 6. Form Field Labeling and Navigation
+- **Issues Detected**: No form fields or all form fields properly labeled.
+- **Recommendation**: N/A
+
+#### 7. Grammar and Spelling Checks
+- **Issues Detected**: Possible spelling mistake found. → Suggestion: DevOps; Possible spelling mistake found. → Suggestion: VS Code, VSC ode; This word seems to be formatted incorrectly. Consider fixing the spacing or removing the hyphen completely. → Suggestion: Git-We, Git - We
+- **Recommendation**: Use grammar tools to correct language errors.
+
+### Page 3
+
+#### 1. Proper Tagging Structure
+- **Issues Detected**: Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> Table -> THead -> TR -> TH -> P: contains no MCID references.; Tag[0](Document) -> Table -> THead -> TR -> TH: contains no MCID references.; Tag[0](Document) -> Table -> THead -> TR -> TH -> P: contains no MCID references.; Tag[0](Document) -> Table -> THead -> TR -> TH: contains no MCID references.; Tag[0](Document) -> Table -> THead -> TR: contains no MCID references.; Tag[0](Document) -> Table -> THead: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TH -> P: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TH: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TD -> P: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TD: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TH -> P: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TH: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TD -> P: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TD: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TH -> P: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TH: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TD -> P: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR -> TD: contains no MCID references.; Tag[0](Document) -> Table -> TBody -> TR: contains no MCID references.; Tag[0](Document) -> Table -> TBody: contains no MCID references.; Tag[0](Document) -> Table: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> Figure: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> Figure: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document) -> Figure: contains no MCID references.; Tag[0](Document) -> P: contains no MCID references.; Tag[0](Document): contains no MCID references.
+- **Recommendation**: Implement a proper tagging structure with semantic elements.
+
+#### 2. Logical Reading Order
+- **Issues Detected**: Possible reading order issue: tagged order diverges from visual order.
+- **Recommendation**: Establish a logical reading order that follows natural document flow.
+
+#### 3. Alt Text for Images
+- **Issues Detected**: Image 'COSName{Image20}' missing alt text
+- **Recommendation**: Provide descriptive alt text for all images.
+
+#### 4. Image Quality and Clarity
+- **Issues Detected**: No image quality issues detected.
+- **Recommendation**: N/A
+
+#### 5. Color Contrast and Font Legibility
+- **Issues Detected**: No contrast issues detected.
+- **Recommendation**: N/A
+
+#### 6. Form Field Labeling and Navigation
+- **Issues Detected**: No form fields or all form fields properly labeled.
+- **Recommendation**: N/A
+
+#### 7. Grammar and Spelling Checks
+- **Issues Detected**: Possible spelling mistake found. → Suggestion: DevOps; Possible spelling mistake found. → Suggestion: VS Code, VSC ode; This word seems to be formatted incorrectly. Consider fixing the spacing or removing the hyphen completely. → Suggestion: Git-We, Git - We
+- **Recommendation**: Use grammar tools to correct language errors.
+
+## General Recommendations
+
+- **Semantic Structure**: Implement comprehensive tagging throughout the document
+- **Reading Order**: Define logical reading order for all pages
+- **Alt Text**: Ensure descriptive alt text for all images
+- **Image Quality**: Replace blurry or low-quality images
+- **Grammar**: Use grammar tools to correct language errors
+- **Navigation**: Add bookmarks and proper document structure
+- **Page Numbers**: Implement sequential page numbering
+- **Language**: Set document language property
+
+## Conclusion
+The document requires improvements to meet accessibility standards. Implementing the recommended changes will enhance usability and accessibility for all users.
